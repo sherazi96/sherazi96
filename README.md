@@ -2,7 +2,7 @@
 
 Senior Full Stack Software Engineer focused on building and scaling SaaS platforms, API-driven systems, and AI-enabled products.
 
-I work end-to-end across frontend and backend systems — from architecture and development to deployment, optimization, and long-term maintainability. My work emphasizes clean code, scalable design, and strong developer experience.
+I work end-to-end across frontend and backend systems from architecture and development to deployment, optimization, and long-term maintainability. My work emphasizes clean code, scalable design, and strong developer experience.
 
 ## 🚀 What I Focus On
 - 🧱 Scalable SaaS architectures
