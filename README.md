@@ -1,4 +1,4 @@
-![Header](header_img.jpg)
+![Header](header_img.jpeg)
 <h1 align="center"># 👋 Hi, I’m Syed Bilal Ahmed Shah</h1>
 
 Senior Full Stack Software Engineer focused on building and scaling SaaS platforms, API-driven systems, and AI-enabled products.
