@@ -43,6 +43,12 @@ I work end-to-end across frontend and backend systems from architecture and deve
 - REST APIs, GraphQL
 - WebSockets, Redis
 
+**Databases**
+- MySQL, PostgreSQL
+- SQL Server (MSSQL)
+- MongoDB
+- Firebase
+
 **Cloud & DevOps**
 - AWS
 - CI/CD, Deployment, Infrastructure Optimization
