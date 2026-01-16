@@ -47,7 +47,7 @@ I work end-to-end across frontend and backend systems from architecture and deve
 - CI/CD, Deployment, Infrastructure Optimization
 
 ## 📦 Open Source
-- ⭐ Laravel Starter Kit — an opinionated, production-ready foundation for scalable SaaS and API platforms
+- ⭐ Laravel Starter Kit — production-ready Laravel starter kit for CMS and content-driven applications
 
 ## 🧠 Beyond Code
 - Architecture & system design
